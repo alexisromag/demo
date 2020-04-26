@@ -1,12 +1,12 @@
 {
   "thingsToDo":
   [
-    {"toDoName":"Puzzle","description":"Fun activity putting together the pieces with family friends or by yourself. Click the visit site button down below to looks at all the fun puzzles you could buy!!","siteName":"https://www.amazon.com/kids-puzzles-learning-jigsaw/b?ie=UTF8&node=166359011","thingImage":"},
-    {"toDoName":"Netflix Binge","description":"Binge shows all day long! Provided are the Top 10 shows currently on Netflix. Visit the link down below to bring you to the Netflix homepage! Some of my personal favorites on Netflix are The Office, Scandal, and Breaking Bad","siteName":"https://www.netflix.com/Login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse","thingImage":},
-    {"toDoName":"Read a Book","description":"Reading is great for your mind and a fun book can help you escape","siteName":"https://www.barnesandnoble.com/b/books/_/N-29Z8q8","thingImage":},
-    {"toDoName":"Go for a Walk","description":"Walk around your neighborhood. the link below gives you the best apps for calculating your steps!","siteName":"https://www.popsugar.com/fitness/Best-Walking-Apps-45660922","thingImage":},
-    {"toDoName":"School Work","description":"Of course since things are now moved online for school. Going to Blackboard and doing our homework and attending lectures is key during this time.","siteName":"https://mymasonportal.gmu.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_66_1","thingImage":},
-    {"toDoName":"Hulu Binge","description":"Another streaming service to let you watch some of your favorite shows all day long! ","siteName":"https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fwww.google.com%2F","thingImage":}
+    {"toDoName":"Puzzle","description":"Fun activity putting together the pieces with family friends or by yourself. Click the visit site button down below to looks at all the fun puzzles you could buy!!","siteName":"https://www.amazon.com/kids-puzzles-learning-jigsaw/b?ie=UTF8&node=166359011","thingImage":""},
+    {"toDoName":"Netflix Binge","description":"Binge shows all day long! Provided are the Top 10 shows currently on Netflix. Visit the link down below to bring you to the Netflix homepage! Some of my personal favorites on Netflix are The Office, Scandal, and Breaking Bad","siteName":"https://www.netflix.com/Login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse","thingImage":""},
+    {"toDoName":"Read a Book","description":"Reading is great for your mind and a fun book can help you escape","siteName":"https://www.barnesandnoble.com/b/books/_/N-29Z8q8","thingImage":""},
+    {"toDoName":"Go for a Walk","description":"Walk around your neighborhood. the link below gives you the best apps for calculating your steps!","siteName":"https://www.popsugar.com/fitness/Best-Walking-Apps-45660922","thingImage":""},
+    {"toDoName":"School Work","description":"Of course since things are now moved online for school. Going to Blackboard and doing our homework and attending lectures is key during this time.","siteName":"https://mymasonportal.gmu.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_66_1","thingImage":""},
+    {"toDoName":"Hulu Binge","description":"Another streaming service to let you watch some of your favorite shows all day long! ","siteName":"https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fwww.google.com%2F","thingImage":""}
   ],
   "Status":"OK"
 }
